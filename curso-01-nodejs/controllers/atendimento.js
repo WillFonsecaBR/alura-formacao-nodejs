@@ -33,6 +33,3 @@ module.exports = app => {
     atendimentos.deleta(id, res)
   })
 }
-
-
-
